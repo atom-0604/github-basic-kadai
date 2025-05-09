@@ -8,4 +8,4 @@ const date = today.getDate();
 const day = today.getDay();
 
 
-console.log(year + '年' + month + '月' + day + '日');
+console.log(year + '年' + month + '月' + date + '日');
